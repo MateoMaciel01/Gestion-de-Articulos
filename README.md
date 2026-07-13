@@ -1,4 +1,4 @@
-# 🛍️ TP WinForm – Gestión de Artículos
+# 🛍️  Gestión de Artículos
 
 Este proyecto corresponde a un Trabajo Práctico de Programación en C# con Windows Forms (WinForms).
 Se trata de una aplicación de escritorio para la gestión de artículos de un catálogo de un comercio, con el objetivo de mantener la información organizada y lista para ser consumida por distintos servicios (web, e-commerce, apps móviles, revistas, etc.).
@@ -125,11 +125,5 @@ Cada artículo deberá contar con la siguiente información:
 
 
 ## 👨‍💻 Autores
-
-Grupo N°12B – Trabajo Práctico WinForms - UTN Gral. Pacheco
-
-- Lucas Berlingeri
-
-- Natalia Mucci
 
 - Mateo Leon Maciel
